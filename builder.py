@@ -12,9 +12,8 @@ with open('iran.csv', newline='') as csvfile:
             ranges.add(str(ip_range))
 
 with open('iran_ip_range.json', 'w') as outfile:
-    json.dump(list(ranges), outfile)
+    json.dump(list(ranges), outfile, sort_keys=True, indent=4)
 
 with open('iran_ip_range.txt', 'w') as fp:
     for r in ranges:
         fp.write("%s," % r)
-
