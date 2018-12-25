@@ -4,7 +4,7 @@ from netaddr import iprange_to_cidrs
 
 ranges = set()
 
-with open('iran.csv', newline='') as csvfile:
+with open('iran_raw_data.csv', newline='') as csvfile:
     r = csv.reader(csvfile)
     for row in r:
         cidrs = iprange_to_cidrs(row[0], row[1])
