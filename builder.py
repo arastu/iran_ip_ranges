@@ -1,19 +1,33 @@
-from csv import reader
-from json import dump
-from netaddr import iprange_to_cidrs
+import csv
+import ipaddress
+import json
 
-ranges = set()
 
-with open('iran_raw_data.csv', newline='') as csvfile:
-    r = reader(csvfile)
-    for row in r:
-        cidrs = iprange_to_cidrs(row[0], row[1])
-        for ip_range in cidrs:
-            ranges.add(str(ip_range))
+def parse_csv_file2(filename='iran_raw_data.csv'):
+    ranges = set()
+    with open(filename) as csvfile:
+        csv_reader = csv.DictReader(csvfile)
+        return {
+            str(address)
+            for row in csv_reader
+            for address in ipaddress.summarize_address_range(
+                ipaddress.IPv4Address(row['start']),
+                ipaddress.IPv4Address(row['end']))
+        }
 
-with open('iran_ip_range.json', 'w') as outfile:
-    dump(list(ranges), outfile, sort_keys=True, indent=4)
+def generate_json(ranges):
+    with open('iran_ip_range.json', 'wt') as outfile:
+        json.dump(list(ranges), outfile, sort_keys=True, indent=4)
 
-with open('iran_ip_range.txt', 'w') as fp:
-    for r in ranges:
-        fp.write("%s," % r)
+def generate_txt(ranges):
+    with open('iran_ip_range.txt', 'wt') as fp:
+        for rng in ranges:
+            fp.write(f"{rng}")
+
+def main():
+    ranges = parse_csv_file2()
+    generate_json(ranges)
+    generate_txt(ranges)
+
+if __name__ == '__main__':
+    main()
