@@ -1209,23 +1209,23 @@ start,end,count,isp
 5.52.0.0,5.52.255.255,65536,25/05/12,Mobin Net Communication Company (Private Joint Stock)
 5.53.32.0,5.53.63.255,8192,29/05/12,Asiatech Data Transfer Inc PLC
 5.62.160.0,5.62.191.255,8192,11/06/12,Iran Telecommunication Company PJS
-5.62.192.0,5.62.255.255,16384,11/06/12,"Rightel Communication Service Company PJS"
-5.72.0.0,5.72.255.255,65536,11/06/12,"Rightel Communication Service Company PJS"
-5.73.0.0,5.73.255.255,65536,11/06/12,"Rightel Communication Service Company PJS"
+5.62.192.0,5.62.255.255,16384,11/06/12,Rightel Communication Service Company PJS
+5.72.0.0,5.72.255.255,65536,11/06/12,Rightel Communication Service Company PJS
+5.73.0.0,5.73.255.255,65536,11/06/12,Rightel Communication Service Company PJS
 5.74.0.0,5.74.255.255,65536,11/06/12,Iran Telecommunication Company PJS
 5.75.0.0,5.75.127.255,32768,11/06/12,Esfahan Telecommunication Company (P.J.S.)
 5.75.128.0,5.75.255.255,32768,11/06/12,Neda Gostar Saba Data Transfer Company Private Joint Stock
 5.78.0.0,5.78.255.255,65536,12/06/12,Pars Online PJS
 5.106.0.0,5.106.255.255,65536,28/06/12,Mobile Communication Company of Iran PLC
 5.112.0.0,5.127.255.255,1048576,29/06/12,Iran Cell Service and Communication Company
-5.134.128.0,5.134.191.255,16384,10/07/12,"Rightel Communication Service Company PJS"
+5.134.128.0,5.134.191.255,16384,10/07/12,Rightel Communication Service Company PJS
 5.160.0.0,5.160.255.255,65536,25/07/12,Respina Networks & Beyond PJSC
 5.161.0.0,5.161.127.255,32768,25/07/12,Asiatech Data Transfer Inc PLC
 5.161.128.0,5.161.255.255,32768,25/07/12,Asiatech Data Transfer Inc PLC
-5.190.0.0,5.190.255.255,65536,13/08/12,PJSC "Fars Telecommunication Company"
+5.190.0.0,5.190.255.255,65536,13/08/12,PJSC Fars Telecommunication Company
 5.198.160.0,5.198.191.255,8192,27/08/12,Asiatech Data Transfer Inc PLC
 5.200.64.0,5.200.95.255,8192,30/08/12,Pars Fonoun Ofogh Information Technology and Communications Company LTD
-5.200.96.0,5.200.127.255,8192,30/08/12,"Rightel Communication Service Company PJS"
+5.200.96.0,5.200.127.255,8192,30/08/12,Rightel Communication Service Company PJS
 5.200.128.0,5.200.255.255,32768,29/08/12,Telecommunications Company of Golestan province PJS
 5.201.128.0,5.201.255.255,32768,29/08/12,Mobin Net Communication Company (Private Joint Stock)
 5.202.0.0,5.202.255.255,65536,29/08/12,Pishgaman Toseeh Ertebatat Company (Private Joint Stock)
@@ -1256,7 +1256,7 @@ start,end,count,isp
 31.130.176.0,31.130.191.255,4096,05/05/11,
 31.170.48.0,31.170.63.255,4096,30/03/11,Farahoosh Dena
 31.184.128.0,31.184.191.255,16384,01/03/11,GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)
-31.193.144.0,31.193.159.255,4096,27/04/11,Communication and information technology network Arian Rasaneh Pars "Ltd."
+31.193.144.0,31.193.159.255,4096,27/04/11,Communication and information technology network Arian Rasaneh Pars Ltd.
 37.19.80.0,37.19.95.255,4096,22/12/11,Shabakeh Gostar Shahriyar Co. (Ltd.)
 37.27.0.0,37.27.255.255,65536,28/12/11,Pars Online PJS
 37.32.0.0,37.32.31.255,8192,02/01/12,Pardaz Gostar Ertebatat Berelian Limited Liability Company
@@ -1266,12 +1266,12 @@ start,end,count,isp
 37.114.192.0,37.114.255.255,16384,10/02/12,GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)
 37.128.240.0,37.128.255.255,4096,21/02/12,ANDISHE SABZ KHAZAR CO. P.J.S.
 37.129.0.0,37.129.255.255,65536,20/02/12,Mobile Communication Company of Iran PLC
-37.137.0.0,37.137.255.255,65536,22/02/12,"Rightel Communication Service Company PJS"
+37.137.0.0,37.137.255.255,65536,22/02/12,Rightel Communication Service Company PJS
 37.148.0.0,37.148.127.255,32768,02/03/12,Aria Shatel Company Ltd
 37.152.160.0,37.152.191.255,8192,12/03/12,Rahanet Zanjan Co. (Private Joint-Stock)
-37.153.176.0,37.153.191.255,4096,13/03/12,"Rightel Communication Service Company PJS"
+37.153.176.0,37.153.191.255,4096,13/03/12,Rightel Communication Service Company PJS
 37.156.16.0,37.156.31.255,4096,13/03/12,Mobin Net Communication Company (Private Joint Stock)
-37.156.48.0,37.156.63.255,4096,13/03/12,"Rightel Communication Service Company PJS"
+37.156.48.0,37.156.63.255,4096,13/03/12,Rightel Communication Service Company PJS
 37.156.112.0,37.156.127.255,4096,13/03/12,Iran Telecommunication Company PJS
 37.156.128.0,37.156.143.255,4096,13/03/12,Iran Telecommunication Company PJS
 37.191.64.0,37.191.95.255,8192,21/03/12,Ariana Gostar Spadana (PJSC)
@@ -1283,7 +1283,7 @@ start,end,count,isp
 46.32.0.0,46.32.31.255,8192,11/08/10,Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS
 46.34.96.0,46.34.127.255,8192,21/09/10,Mellat Insurance Public Joint Stock Company
 46.34.176.0,46.34.191.255,4096,23/09/10,Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS
-46.36.96.0,46.36.127.255,8192,26/10/10,"Pirooz Leen" LLC
+46.36.96.0,46.36.127.255,8192,26/10/10,Pirooz Leen LLC
 46.38.128.0,46.38.159.255,8192,25/11/10,Farhang Azma Communications Company LTD
 46.41.192.0,46.41.255.255,16384,27/07/10,Pars Online PJS
 46.51.0.0,46.51.127.255,32768,27/07/10,Mobile Communication Company of Iran PLC
@@ -1314,7 +1314,7 @@ start,end,count,isp
 77.77.64.0,77.77.127.255,16384,21/02/07,Rayaneh Danesh Golestan Complex P.J.S. Co.
 77.81.32.0,77.81.47.255,4096,15/02/07,Iran Telecommunication Company PJS
 77.81.144.0,77.81.159.255,4096,15/02/07,Iran Telecommunication Company PJS
-77.81.192.0,77.81.223.255,8192,15/02/07,"Rightel Communication Service Company PJS"
+77.81.192.0,77.81.223.255,8192,15/02/07,Rightel Communication Service Company PJS
 77.104.64.0,77.104.127.255,16384,07/10/08,Respina Networks & Beyond PJSC
 77.237.64.0,77.237.95.255,8192,01/02/07,Respina Networks & Beyond PJSC
 77.237.160.0,77.237.191.255,8192,06/02/07,Pishgaman Kavir Yazd Cooperative
@@ -1383,10 +1383,10 @@ start,end,count,isp
 87.247.160.0,87.247.191.255,8192,23/11/05,Moasese Gostaresh Etelaat Va Ertebatat Farhangi Neda Rayaneh
 87.248.128.0,87.248.159.255,8192,26/08/08,TOSE'EH ERTEBATAT NOVIN ARIA CO PJS
 87.251.128.0,87.251.159.255,8192,13/09/05,Asiatech Data Transfer Inc PLC
-89.32.0.0,89.32.31.255,8192,29/11/05,"Rightel Communication Service Company PJS"
-89.32.96.0,89.32.111.255,4096,29/11/05,"Rightel Communication Service Company PJS"
-89.34.32.0,89.34.63.255,8192,29/11/05,"Rightel Communication Service Company PJS"
-89.34.128.0,89.34.159.255,8192,29/11/05,"Rightel Communication Service Company PJS"
+89.32.0.0,89.32.31.255,8192,29/11/05,Rightel Communication Service Company PJS
+89.32.96.0,89.32.111.255,4096,29/11/05,Rightel Communication Service Company PJS
+89.34.32.0,89.34.63.255,8192,29/11/05,Rightel Communication Service Company PJS
+89.34.128.0,89.34.159.255,8192,29/11/05,Rightel Communication Service Company PJS
 89.36.48.0,89.36.63.255,4096,29/11/05,Iran Telecommunication Company PJS
 89.36.96.0,89.36.111.255,4096,29/11/05,Iran Telecommunication Company PJS
 89.36.176.0,89.36.191.255,4096,29/11/05,Iran Telecommunication Company PJS
@@ -1394,12 +1394,12 @@ start,end,count,isp
 89.37.240.0,89.37.255.255,4096,29/11/05,Iran Telecommunication Company PJS
 89.38.80.0,89.38.95.255,4096,29/11/05,Iran Telecommunication Company PJS
 89.40.240.0,89.40.255.255,4096,29/11/05,Iran Telecommunication Company PJS
-89.41.192.0,89.41.223.255,8192,29/11/05,"Rightel Communication Service Company PJS"
+89.41.192.0,89.41.223.255,8192,29/11/05,Rightel Communication Service Company PJS
 89.41.224.0,89.41.239.255,4096,29/11/05,Neda Gostar Saba Data Transfer Company Private Joint Stock
 89.43.0.0,89.43.15.255,4096,29/11/05,Mobin Net Communication Company (Private Joint Stock)
 89.45.48.0,89.45.63.255,4096,29/11/05,Mobin Net Communication Company (Private Joint Stock)
-89.47.64.0,89.47.79.255,4096,29/11/05,"Rightel Communication Service Company PJS"
-89.47.128.0,89.47.159.255,8192,29/11/05,"Rightel Communication Service Company PJS"
+89.47.64.0,89.47.79.255,4096,29/11/05,Rightel Communication Service Company PJS
+89.47.128.0,89.47.159.255,8192,29/11/05,Rightel Communication Service Company PJS
 89.144.128.0,89.144.191.255,16384,27/01/06,ANDISHE SABZ KHAZAR CO. P.J.S.
 89.165.0.0,89.165.127.255,32768,01/03/06,Neda Gostar Saba Data Transfer Company Private Joint Stock
 89.184.192.0,89.184.223.255,8192,27/04/10,Moasese Gostaresh Etelaat Va Ertebatat Farhangi Neda Rayaneh
@@ -1413,7 +1413,7 @@ start,end,count,isp
 89.235.80.0,89.235.95.255,4096,30/05/06,Asiatech Data Transfer Inc PLC
 89.235.96.0,89.235.127.255,8192,30/05/06,Asiatech Data Transfer Inc PLC
 91.98.0.0,91.99.255.255,131072,11/09/06,Pars Online PJS
-91.106.64.0,91.106.95.255,8192,21/06/12,PJSC "Badr Rayan Jonoob"
+91.106.64.0,91.106.95.255,8192,21/06/12,PJSC Badr Rayan Jonoob
 91.107.128.0,91.107.255.255,32768,21/06/12,Asiatech Data Transfer Inc PLC
 91.108.128.0,91.108.159.255,8192,15/06/12,Rayaneh Gostar Farzanegan Ahwaz Company LTD.
 91.133.128.0,91.133.255.255,32768,30/10/06,Mobin Net Communication Company (Private Joint Stock)
@@ -1426,14 +1426,14 @@ start,end,count,isp
 91.250.224.0,91.250.239.255,4096,14/09/12,Asiatech Data Transfer Inc PLC
 91.251.0.0,91.251.255.255,65536,14/09/12,Mobile Communication Company of Iran PLC
 92.50.0.0,92.50.63.255,16384,17/12/07,Shahrad Net Company Ltd.
-92.61.176.0,92.61.191.255,4096,02/01/08,Communication and information technology network Arian Rasaneh Pars "Ltd."
+92.61.176.0,92.61.191.255,4096,02/01/08,Communication and information technology network Arian Rasaneh Pars Ltd.
 92.62.176.0,92.62.191.255,4096,25/01/08,Tosee Resan Pasargad Co. P.J.S
 92.114.16.0,92.114.31.255,4096,15/10/07,Mobin Net Communication Company (Private Joint Stock)
-92.114.64.0,92.114.79.255,4096,15/10/07,"Rightel Communication Service Company PJS"
+92.114.64.0,92.114.79.255,4096,15/10/07,Rightel Communication Service Company PJS
 92.242.192.0,92.242.223.255,8192,08/01/08,Respina Networks & Beyond PJSC
 93.110.0.0,93.110.255.255,65536,24/04/08,Laser Company Ltd
 93.113.224.0,93.113.239.255,4096,21/12/07,Afranet
-93.114.16.0,93.114.31.255,4096,21/12/07,"Rightel Communication Service Company PJS"
+93.114.16.0,93.114.31.255,4096,21/12/07,Rightel Communication Service Company PJS
 93.115.224.0,93.115.239.255,4096,21/12/07,Asiatech Data Transfer Inc PLC
 93.117.0.0,93.117.31.255,8192,21/12/07,Iran Telecommunication Company PJS
 93.117.32.0,93.117.47.255,4096,21/12/07,Iran Telecommunication Company PJS
@@ -1445,8 +1445,8 @@ start,end,count,isp
 93.119.32.0,93.119.63.255,8192,21/12/07,Iran Telecommunication Company PJS
 93.119.64.0,93.119.95.255,8192,21/12/07,Iran Telecommunication Company PJS
 93.126.0.0,93.126.63.255,16384,09/07/08,
-94.24.0.0,94.24.15.255,4096,02/06/08,"Rightel Communication Service Company PJS"
-94.24.80.0,94.24.95.255,4096,02/06/08,"Rightel Communication Service Company PJS"
+94.24.0.0,94.24.15.255,4096,02/06/08,Rightel Communication Service Company PJS
+94.24.80.0,94.24.95.255,4096,02/06/08,Rightel Communication Service Company PJS
 94.74.128.0,94.74.191.255,16384,14/07/08,Farahoosh Dena
 94.101.128.0,94.101.143.255,4096,15/08/08,Mobin Net Communication Company (Private Joint Stock)
 94.101.176.0,94.101.191.255,4096,21/08/08,Pardaz Gostar Ertebatat Berelian Limited Liability Company
@@ -1467,7 +1467,7 @@ start,end,count,isp
 95.82.0.0,95.82.63.255,16384,08/12/08,Shahrad Net Company Ltd.
 95.82.64.0,95.82.127.255,16384,11/12/08,Asiatech Data Transfer Inc PLC
 95.142.224.0,95.142.239.255,4096,11/08/09,Armaghan Rahe Talaie
-95.162.0.0,95.162.255.255,65536,24/12/08,"Rightel Communication Service Company PJS"
+95.162.0.0,95.162.255.255,65536,24/12/08,Rightel Communication Service Company PJS
 109.72.192.0,109.72.207.255,4096,21/09/09,khalij fars Ettela Resan Company J.S.
 109.74.224.0,109.74.239.255,4096,12/11/09,Iran Telecommunication Company PJS
 109.108.160.0,109.108.191.255,8192,29/10/09,Mobin Net Communication Company (Private Joint Stock)
@@ -1490,7 +1490,7 @@ start,end,count,isp
 128.65.176.0,128.65.191.255,4096,07/10/11,Asiatech Data Transfer Inc PLC
 128.140.0.0,128.140.127.255,32768,10/10/11,Bozorg Net-e Aria
 130.255.192.0,130.255.255.255,16384,31/10/11,Mobin Net Communication Company (Private Joint Stock)
-151.232.0.0,151.235.255.255,262144,13/08/12,PJSC "Fars Telecommunication Company"
+151.232.0.0,151.235.255.255,262144,13/08/12,PJSC Fars Telecommunication Company
 151.238.0.0,151.239.255.255,131072,15/08/12,Aria Shatel Company Ltd
 151.240.0.0,151.247.255.255,524288,15/08/12,Aria Shatel Company Ltd
 158.58.0.0,158.58.127.255,32768,08/11/11,Mobile Communication Company of Iran PLC
@@ -1528,13 +1528,13 @@ start,end,count,isp
 188.121.96.0,188.121.127.255,8192,11/05/09,Pardaz Gostar Ertebatat Berelian Limited Liability Company
 188.121.128.0,188.121.159.255,8192,11/05/09,TSTonline co.
 188.122.96.0,188.122.127.255,8192,04/01/11,Mobin Net Communication Company (Private Joint Stock)
-188.126.128.0,188.126.159.255,8192,23/07/09,Communication and information technology network Arian Rasaneh Pars "Ltd."
+188.126.128.0,188.126.159.255,8192,23/07/09,Communication and information technology network Arian Rasaneh Pars Ltd.
 188.136.128.0,188.136.255.255,32768,15/05/09,Ariana Gostar Spadana (PJSC)
 188.158.0.0,188.159.255.255,131072,09/06/09,Neda Gostar Saba Data Transfer Company Private Joint Stock
-188.208.64.0,188.208.95.255,8192,08/05/09,"Rightel Communication Service Company PJS"
-188.208.144.0,188.208.159.255,4096,08/05/09,"Rightel Communication Service Company PJS"
-188.208.160.0,188.208.191.255,8192,08/05/09,"Rightel Communication Service Company PJS"
-188.208.224.0,188.208.255.255,8192,08/05/09,"Rightel Communication Service Company PJS"
+188.208.64.0,188.208.95.255,8192,08/05/09,Rightel Communication Service Company PJS
+188.208.144.0,188.208.159.255,4096,08/05/09,Rightel Communication Service Company PJS
+188.208.160.0,188.208.191.255,8192,08/05/09,Rightel Communication Service Company PJS
+188.208.224.0,188.208.255.255,8192,08/05/09,Rightel Communication Service Company PJS
 188.209.16.0,188.209.31.255,4096,08/05/09,Iran Telecommunication Company PJS
 188.209.32.0,188.209.47.255,4096,08/05/09,Iran Telecommunication Company PJS
 188.209.64.0,188.209.79.255,4096,08/05/09,Iran Telecommunication Company PJS
@@ -1591,7 +1591,7 @@ start,end,count,isp
 213.176.32.0,213.176.63.255,8192,25/07/00,Iranian Research Organization for Science & Technology
 213.176.64.0,213.176.127.255,16384,01/02/00,Iranian Research Organization for Science & Technology
 213.195.0.0,213.195.31.255,8192,21/04/09,Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS
-213.195.32.0,213.195.47.255,4096,21/04/09,"Rightel Communication Service Company PJS"
+213.195.32.0,213.195.47.255,4096,21/04/09,Rightel Communication Service Company PJS
 213.207.192.0,213.207.207.255,4096,07/11/02,Farabord Dadeh Haye Iranian Co.
 213.207.208.0,213.207.223.255,4096,07/11/02,DATAK Internet Engineering,Inc
 213.207.224.0,213.207.255.255,8192,07/11/02,DATAK Internet Engineering,Inc
