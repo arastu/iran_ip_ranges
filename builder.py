@@ -22,7 +22,7 @@ def generate_json(ranges):
 def generate_txt(ranges):
     with open('iran_ip_range.txt', 'wt') as fp:
         for rng in ranges:
-            fp.write(f"{rng}")
+            fp.write(f"{rng},")
 
 def main():
     ranges = parse_csv_file2()
